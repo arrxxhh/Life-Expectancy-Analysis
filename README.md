@@ -98,7 +98,7 @@ The final Power BI dashboard enables stakeholders to **compare country performan
 > 🔹 To view the dashboard:
 
 1. Clone this repo  
-2.Open `powerbi/life_expectancy_dashboard.pbix` in Power BI Desktop 
+2. Open `powerbi/life_expectancy_dashboard.pbix` in Power BI Desktop 
 3. Import the Views into the Power BI directly or onto server (in my case localhost via phpmyadmin) and connect BI with the database.
 3. Explore using slicers (Year, Country, Status) and hover over tooltips for insights  
 
